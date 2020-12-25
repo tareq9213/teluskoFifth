@@ -1,0 +1,3 @@
+Fifth video of telusko where i work with static files, models.py, views.py, index.html, using for loop, if else condition here to apply some logic.
+
+specially i work with the aria template here.
